@@ -13,7 +13,3 @@ def multiply(a, b):
 
 def divide_past(a, b):
     return a/b
-
-
-def square(a):
-    return a*a

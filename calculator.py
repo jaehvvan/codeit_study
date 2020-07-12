@@ -13,6 +13,3 @@ def multiply(a, b):
 
 def divide_premium(a, b):
     return a/b
-
-def say_hello():
-    print("hello")
